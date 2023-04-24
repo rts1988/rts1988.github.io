@@ -1,7 +1,5 @@
 ## About Me
 
-[link to another page 2](/page2.md)
-
 Hi there! I'm Arati Santhanakrishnan, a data scientist  based in Vancouver, BC. I have a diploma in Data Science from BrainStation, a PhD in chemical engineering from Michigan State University, and 3 years' industrial research and development experience in the semiconductor industry. 
 
 My background in chemical engineering research (PhD, 2015) in both academia and industry has involved generating, analyzing and deriving conclusions from data on a daily basis. For my PhD dissertation, I optimized parameterized models for complex kinetic reaction systems in MATLAB, and designed catalysts for green chemistry. At my job as a process engineer in the semiconductor manufacturing industry, I used experimental designs including interaction parameters for process optimization of complex plasma depositions and A/B testing next generation hardware solutions. 
@@ -30,3 +28,5 @@ My vision is to empower students by making self-regulated learning a more effect
 In my free time, I enjoy . I also love [any other interests or passions you have outside of your field].
 
 Feel free to check out my work and connect with me [provide links to your social media, email, or other contact information].
+
+[link to another page 2](/page2.md)
